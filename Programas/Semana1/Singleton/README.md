@@ -6,4 +6,5 @@ Para la implementación del patrón de diseño Singleton:
 - Se hace uso de una variable estática de tipo Encoder
 - Se declara privado el constructor
 - Se declara el método público getInstance() que verifica si la variable estática ya apunta hacia un objeto
+  
 Por su parte en el main se declaran 6 variables de referencia que debido al patrón antes descrito apuntan a un mismo objeto
