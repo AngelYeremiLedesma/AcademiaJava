@@ -19,7 +19,7 @@ public class Principal {
 
     private static void doingTheirsActivities(User[] users) {
 
-        System.out.println("----------Doing their own activity-------------");
+        System.out.println("---------Doing their own activity-------------");
         for(User user: users){
             user.doingMyActivity();
         }
@@ -27,7 +27,7 @@ public class Principal {
 
     private static void registerUsers(User[] users, String[][] usersData) {
 
-        System.out.println("----------Registering Users -------------");
+        System.out.println("-------------Registering Users ---------------");
         for(int i=0;i<users.length;i++){
             users[i].register(usersData[i][0],usersData[i][1]);
         }
@@ -36,7 +36,7 @@ public class Principal {
 
     private static void loginUsers(User[] users, String[][] usersData) {
 
-        System.out.println("----------Logging Users -------------");
+        System.out.println("---------------Logging Users -----------------");
         for(int i=0;i<users.length;i++){
             users[i].login(usersData[i][0],usersData[i][1]);
         }
