@@ -3,8 +3,9 @@ package com.aledesma.polimorfismo;
 public class Principal {
     public static void main(String[] args) {
 
-        User[] users = {new Admin(), new Customer(), new Vendor()};
-        String[][] usersData = {
+        //Los siguientes dos arrays buscan simular la data de entrada, proviniendo de DB o de alguna petición
+        User[] users = {new Admin(), new Customer(), new Vendor()};//Simulando 3 usuarios, cada uno de una clase concreta distinta
+        String[][] usersData = {//Simulando sus respectivos usernames y passwords
                 {"admin","elAdminManda"},
                 {"customer","aquiLoQueSobraEsBillete"},
                 {"vendor","comprenComprenCompren"}

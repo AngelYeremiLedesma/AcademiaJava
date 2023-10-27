@@ -4,7 +4,7 @@ public class Vendor extends User{
 
     @Override
     public void doingMyActivity(){
-        System.out.println("Earning the potato.");
+        System.out.println("Earning the potato."); //Chiste que en traduccion al espanio hace sentido
     }
 
 }
