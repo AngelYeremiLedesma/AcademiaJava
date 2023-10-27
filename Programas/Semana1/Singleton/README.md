@@ -7,4 +7,8 @@ Para la implementación del patrón de diseño Singleton:
 - Se declara privado el constructor
 - Se declara el método público getInstance() que verifica si la variable estática ya apunta hacia un objeto y si no genera la instancia única
   
-Por su parte en el main se declaran 6 variables de referencia que debido al patrón antes descrito apuntan a un mismo objeto
+Por su parte en el main se declaran 6 variables de referencia que debido al patrón antes descrito apuntan a un mismo 
+
+Resultado obtenido al ejecutar el programa:
+
+![Resultado de codigo](https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana1/Singleton/Ejecucion.png)
