@@ -12,7 +12,8 @@ En este proyecto se cuenta con los siguientes elementos:
 
 Ejecución del código:
 
+<center>
 ![Ejecución del código](https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana1/Polimorfismo/Ejecucion.png)
-
+</center>
 
 

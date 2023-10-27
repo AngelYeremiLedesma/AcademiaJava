@@ -11,4 +11,6 @@ Por su parte en el main se declaran 6 variables de referencia que debido al patr
 
 Resultado obtenido al ejecutar el programa:
 
+<center>
 ![Resultado de codigo](https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana1/Singleton/Ejecucion.png)
+</center>
