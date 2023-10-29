@@ -21,4 +21,3 @@
 <p align="center">
   <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Simuladores/Semana1/3-Operators.png">
 </p>
-
