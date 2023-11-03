@@ -2,12 +2,12 @@ package com.aledesma.predicate;
 
 import java.util.Objects;
 
+//POJO auxiliar para abstraer a los usuarios
 public class UserEntity {
     private String username;
     private String password;
 
     public UserEntity(){
-
     }
 
     public UserEntity(String username, String password) {
