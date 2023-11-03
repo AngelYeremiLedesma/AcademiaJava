@@ -12,7 +12,7 @@ public class Student extends Observer{
     }
 
     void taskReceived(){
-        System.out.println(username.toUpperCase(Locale.ROOT) + ": Thank you "+ ((Teacher)super.subject).name + ", I'm aware of the task ");
+        System.out.println(username.toUpperCase(Locale.ROOT) + ": Thank you "+ ((Teacher)super.subject).name + ", I'm aware of the task "); //Avisa que ya lo recibió
     }
 
     @Override
