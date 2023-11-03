@@ -12,17 +12,17 @@ En este proyecto se cuenta con:
 Al correr el programa, el resultado dependerá de los valores que le demos al UserEntity de entrada, pudiendo tener los siguientes resultados:
 
 <p align="center">
-  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion1.png" alt="Ejecución del código">
+  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion1.PNG" alt="Ejecución del código">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion2.png" alt="Ejecución del código">
+  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion2.PNG" alt="Ejecución del código">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion3.png" alt="Ejecución del código">
+  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion3.PNG" alt="Ejecución del código">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion4.png" alt="Ejecución del código">
+  <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Predicate/Ejecucion4.PNG" alt="Ejecución del código">
 </p>
