@@ -11,7 +11,7 @@ En este proyecto se cuenta con:
 	- Algunos students se desuscriben, y cuando el teacher asigna una nueva asignación, sólo los restantes confirman de recibido
 	- Se suscriben otros students a dicho teacher, se asigna una nueva tarea y los nuevos ya también reciben la última tarea asignada.
 
-Al correr el programa, el resultado dependerá de los valores que le demos al UserEntity de entrada, pudiendo tener los siguientes resultados:
+Al correr el programa, el resultado es el siguiente:
 
 <p align="center">
   <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Programas/Semana2/Observer/Ejecucion.PNG" alt="Ejecución del código">
