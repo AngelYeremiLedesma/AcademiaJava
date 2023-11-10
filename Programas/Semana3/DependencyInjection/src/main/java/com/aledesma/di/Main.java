@@ -1,5 +1,7 @@
 package com.aledesma.di;
 
+import java.io.FileNotFoundException;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -37,5 +39,7 @@ public class Main {
 
         parcelaC51.cosecharParcela();
         Injector.inyectarParcela(parcelaC51,"");//se elimina el tipo de planta de la parcela
+
+        throw new SecurityException();
     }
 }
