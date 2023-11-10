@@ -25,7 +25,7 @@
   <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Simuladores/Semana2/loops_2.png">
 </p>
 
-## 5._Constructors:
+## 6._Constructors:
 
 <p align="center">
   <img src="https://github.com/AngelYeremiLedesma/AcademiaJava/blob/main/Simuladores/Semana2/constructors_1.png">

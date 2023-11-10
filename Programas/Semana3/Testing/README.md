@@ -14,7 +14,7 @@ En este proyecto desarrollado con Maven y JUnit 5:
 		- updateUser(UserEntity userEntity);
 		- deleteUserById(Integer id);
 - test: 
-	-UserServiceTest: establece los siguientes tests:
+	- UserServiceTest: establece los siguientes tests:
 		- initializing(): @BeforeEach, reinicia la data y el counter antes de cada test, ya que como se manejan algunos elementos estáticos, estos se inicializan al crear esas clases y se van modificando en cada test
 
 		- testRead(): crea 1 user y después lo obtiene ingresando su Id, se verifica que sean iguales
