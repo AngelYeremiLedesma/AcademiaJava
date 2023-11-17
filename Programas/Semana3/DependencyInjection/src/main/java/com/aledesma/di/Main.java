@@ -40,6 +40,5 @@ public class Main {
         parcelaC51.cosecharParcela();
         Injector.inyectarParcela(parcelaC51,"");//se elimina el tipo de planta de la parcela
 
-        throw new SecurityException();
     }
 }
